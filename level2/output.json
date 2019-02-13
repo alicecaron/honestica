@@ -1,20 +1,20 @@
 {
   "workers": [
     {
-      "id": 1,
-      "price": 810
+      "price": 810,
+      "id": 1
     },
     {
-      "id": 2,
-      "price": 810
+      "price": 810,
+      "id": 2
     },
     {
-      "id": 3,
-      "price": 252
+      "price": 252,
+      "id": 3
     },
     {
-      "id": 4,
-      "price": 540
+      "price": 540,
+      "id": 4
     }
   ]
 }
